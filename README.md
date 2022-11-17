@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm stickycandy
 
 
-**stickycandy/stickycandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **stickycandy/stickycandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`stickycandy`-github-readme)
