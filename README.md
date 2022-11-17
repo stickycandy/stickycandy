@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm stickycandy. <sup>(or Kevin Deng)</sup>
 
 <!--
 **stickycandy/stickycandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
