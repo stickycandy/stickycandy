@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`stickycandy`-github-readme)
-<img alt="Shows stickycandy's GitHub Stats." align="right" width="480px" src="https://camo.githubusercontent.com/f5c1f8963e093448382d1f337055be59b9c52bb1cced8b8dc1c9a5bdcfe91f3f/68747470733a2f2f6769746875622d73746174732e6c69756c692e6c6f6c2f6170693f757365726e616d653d73787a7a267468656d653d7675652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-stats.liuli.lol/api?username=stickycandy&amp;theme=vue&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="visibility:visible;max-width:100%;">
+<img alt="Shows stickycandy's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=stickycandy&amp;theme=vue&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="visibility:visible;max-width:100%;">
