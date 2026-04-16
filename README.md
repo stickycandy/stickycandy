@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`stickycandy`-github-readme)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=stickycandy&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-</picture>
+<a href="#stats" align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+  </picture>
+</a>
+
+#### 我使用的语言和框架 Languages & Frameworks I use
+
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,vue,python,rust,tailwind,swift,react,nest,java)
