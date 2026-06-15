@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   </picture>
 </a>
 
-#### 我使用的语言和框架 Languages & Frameworks I use
+#### Languages & Frameworks I use
 
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,vue,python,rust,tailwind,swift,react,nest,java)
