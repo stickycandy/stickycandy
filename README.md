@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 #### Languages & Frameworks I use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,vue,python,rust,tailwind,swift,react,nest,java)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,vue,rust,swift,react,nest,java)
