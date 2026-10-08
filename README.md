@@ -13,8 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-
-#### Languages & Frameworks I use
-
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,vue,rust,swift,react,nest,java)
