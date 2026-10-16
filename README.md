@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61F72C&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+stickycandy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=22F74E&width=480&lines=+%F0%9F%90%B6+Hi+there+%F0%9F%91%8B+I'm+stickycandy+)](https://git.io/typing-svg)
 
 
 <!-- **stickycandy/stickycandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
